@@ -219,8 +219,8 @@ nav{
 }
 .image{
     margin: auto 0;
-    width: 380px;
-    height: 380px;
+    width: 100px;
+    height: 100px;
     border-radius: 55% 45% 55% 45%;
 }
 .image img{
